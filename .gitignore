@@ -7,3 +7,7 @@
 chunks/
 stills/
 __pycache__/
+
+# Assets: Luke will Stimmen und Musik im Repo
+!voice/*.mp3
+!music/*.mp3
