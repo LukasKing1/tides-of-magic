@@ -20,11 +20,13 @@ Dateiname = Bild-ID aus der Bildliste im Drehbuch. Die Versionen hier kommen aus
 | 4-E | Der Blutstein-Kaiser | wird neu gemacht |
 | 5-A | Die Mauer | ok |
 | 5-B | Valyria | wird neu gemacht |
+| 5-C | Valyrischer Stahl | ok |
 | 5-D | Drachenschädel | ok |
 | 5-E | Riesen | ok |
 | 5-F | König der Heldenzeit | ok |
 | 6-A | Der Verfluchte Wald | ok |
 | 6-B | Ein Anderer | ok |
+| 6-C | Crasters Hof | ok |
 | 6-D | Meraxes fällt | ok |
 | 6-E | Die Schattenwolf-Welpen | ok |
 | 7-A | Drachenknochen an der Küste von Ib | ok |
@@ -39,4 +41,4 @@ Dateiname = Bild-ID aus der Bildliste im Drehbuch. Die Versionen hier kommen aus
 | 9-B | Der Hügel des Sternensehers | ok |
 | T-1 | Thumbnail: der zerbrochene Mond | ok, für YouTube braucht es mind. 1280×720 |
 
-Fehlt noch: 5-C (Valyrischer Stahl), 6-C (Crasters Hof) sowie neue Fassungen von 4-E und 5-B.
+Fehlt noch: neue Fassungen von 4-E und 5-B (optional, die jetzigen sind brauchbar).
