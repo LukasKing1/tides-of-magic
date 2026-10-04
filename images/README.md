@@ -24,5 +24,19 @@ Dateiname = Bild-ID aus der Bildliste im Drehbuch. Die Versionen hier kommen aus
 | 5-E | Riesen | ok |
 | 5-F | König der Heldenzeit | ok |
 | 6-A | Der Verfluchte Wald | ok |
+| 6-B | Ein Anderer | ok |
+| 6-D | Meraxes fällt | ok |
+| 6-E | Die Schattenwolf-Welpen | ok |
+| 7-A | Drachenknochen an der Küste von Ib | ok |
+| 7-B | Drachenknochen im Dschungel | ok |
+| 7-C | Im Inneren des Vulkans | ok |
+| 7-D | Die Hirten | ok |
+| 7-E | Die Drachenreiter | ok |
+| 8-A | Der Tanz der Drachen | ok |
+| 8-B | Braavos | ok |
+| 8-C | Ein Herzbaum | ok |
+| 9-A | Meer, Mond und Komet | ok |
+| 9-B | Der Hügel des Sternensehers | ok |
+| T-1 | Thumbnail: der zerbrochene Mond | ok, für YouTube braucht es mind. 1280×720 |
 
-Fehlt noch: 5-C, 6-B bis 6-E, 7-A bis 7-E, 8-A bis 8-C, 9-A, 9-B, T-1 sowie neue Fassungen von 4-E und 5-B.
+Fehlt noch: 5-C (Valyrischer Stahl), 6-C (Crasters Hof) sowie neue Fassungen von 4-E und 5-B.
