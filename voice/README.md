@@ -3,7 +3,6 @@
 74 Snippets ohne Zitate, Dateiname = Snippet-ID aus `main/script_v2.py`.
 Gesamtdauer: 16:18 min. 09-7 liegt in zwei Varianten vor (schnell / langsam).
 
-Zitate (Q1–Q9) fehlen noch, sie kommen als `voice/Q1.mp3` … `Q9.mp3` dazu.
 
 | ID | Länge (s) | Download-Name |
 |---|---|---|
@@ -82,3 +81,17 @@ Zitate (Q1–Q9) fehlen noch, sie kommen als `voice/Q1.mp3` … `Q9.mp3` dazu.
 | 09-7_langsam | 1.91 | weareallsummerchildrenlangsamerevariante.mp3 |
 | 09-8 | 5.67 | 72iburned.mp3 |
 | 09-9 | 9.74 | sowahtdoyou.mp3 |
+
+## Zitate
+
+| ID | Stimme | Länge (s) | Lukes Liste | Download-Name |
+|---|---|---|---|---|
+| Q1 | Doreah (Annie) | 18.9 | Liste Nr. 1 | ES_Voice_Annie-2026-10-04T170354Z.mp3 |
+| Q2 | Marwyn (Paul) | 21.1 | Liste Nr. 3 | ES_Voice_Paul-2026-10-04T170603Z.mp3 |
+| Q3 | Alte Nan (Marie) | 32.2 | Liste Nr. 4 | ES_Voice_Marie-2026-10-04T173904Z.mp3 |
+| Q4 | Chronist (Edward) | 24.5 | Liste Nr. 5 | ES_Voice_Edward-2026-10-04T174410Z.mp3 |
+| Q5 | Chronist | 22.3 | Liste Nr. 6 | Tothisday.mp3 |
+| Q6 | Erzähler (Edward) | 7.5 | Liste Nr. 7 | ES_Voice_Edward-2026-10-04T174444Z.mp3 |
+| Q7 | Chronist (Edward) | 17.4 | Liste Nr. 8 | ES_Voice_Edward-2026-10-04T174616Z.mp3 |
+| Q8 | Erzähler (Edward) | 10.1 | Liste Nr. 9 | ES_Voice_Edward-2026-10-04T174735Z.mp3 |
+| Q9 | Doreah (Annie) | 5.5 | Liste Nr. 2 | ES_Voice_Annie-2026-10-04T170442Z.mp3 |
