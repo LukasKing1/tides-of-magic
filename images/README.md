@@ -17,9 +17,10 @@ Dateiname = Bild-ID aus der Bildliste im Drehbuch. Die Versionen hier kommen aus
 | 4-B | Yeen | ok |
 | 4-C | Seestein-Thron | ok |
 | 4-D | Der Hohe Turm auf schwarzem Stein | ok |
-| 4-E | Der Blutstein-Kaiser | wird neu gemacht |
+| 4-E | Der Blutstein-Kaiser: Sturz der Götter (zum Zitat Q4) | ok |
+| 4-E-b | Der Blutstein-Kaiser: der Stein als Ikone (für 04-8) | ok |
 | 5-A | Die Mauer | ok |
-| 5-B | Valyria | wird neu gemacht |
+| 5-B | Valyria vom Meer aus | ok |
 | 5-C | Valyrischer Stahl | ok |
 | 5-D | Drachenschädel | ok |
 | 5-E | Riesen | ok |
@@ -41,4 +42,4 @@ Dateiname = Bild-ID aus der Bildliste im Drehbuch. Die Versionen hier kommen aus
 | 9-B | Der Hügel des Sternensehers | ok |
 | T-1 | Thumbnail: der zerbrochene Mond | ok, für YouTube braucht es mind. 1280×720 |
 
-Fehlt noch: neue Fassungen von 4-E und 5-B (optional, die jetzigen sind brauchbar).
+Alle Bilder sind da. Ältere Fassungen liegen in `alt/`.
