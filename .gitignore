@@ -11,3 +11,4 @@ __pycache__/
 # Assets: Luke will Stimmen und Musik im Repo
 !voice/*.mp3
 !music/*.mp3
+!will-ai-buy-our-cars/voice/*.mp3
