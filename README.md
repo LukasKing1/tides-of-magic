@@ -13,7 +13,15 @@ gerenderte Videos und lizenzierte Musik nur dort, wo .gitignore es erlaubt.
 
 ## Will AI Buy Our Cars? (KI und Jobverlust)
 
-- `will-ai-buy-our-cars/prophecy.py` – aktuelle Fassung (v3): EDEN-Prophezeiung (P-01 bis P-15), drei Annahmen
+- `will-ai-buy-our-cars/rich.py` – aktuelle Fassung (v4) im Niveau von Rational Animations: Prophezeiung P-01 bis P-11
+  (Dach mit Silhouetten, EDEN, Vertrag, Fabrik/Kueche, Nachtbuero, goldene Stadt, Zeitungen, Menge, Autosalon,
+  letzter Job, Kristallkugel mit Schlange) und Titel, 90 s
+  - Standbild: `python3 rich.py still <sekunde> <out.png>`
+  - Video: `python3 rich.py render <startframe> <endframe> <out.mp4>` (24 fps, 2160 Frames)
+- `will-ai-buy-our-cars/rich_base.py` – Zeichenbasis v4: Cel-Schatten, Konturen in Bildschirmpixeln, Profilfiguren,
+  Haende, Roboterhand und -arm, Silhouetten mit Randlicht, Schlange mit Bauchschuppen
+- `will-ai-buy-our-cars/concept4.py` – Stilbilder zur Bildsprache "Kugel, Haut und Ring"
+- `will-ai-buy-our-cars/prophecy.py` – Fassung v3 (wird von v4 als Bausteinsammlung importiert): EDEN-Prophezeiung (P-01 bis P-15), drei Annahmen
   mit GRANTED-Siegeln, Riss, Titel und Anfang von Kapitel 1 mit Genesis (G-01 bis G-06), 167 s
   - Standbild: `python3 prophecy.py still <sekunde> <out.png>`
   - Video: `python3 prophecy.py render <startframe> <endframe> <out.mp4>` (24 fps, 4013 Frames)
