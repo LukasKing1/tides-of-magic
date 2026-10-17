@@ -13,7 +13,11 @@ gerenderte Videos und lizenzierte Musik nur dort, wo .gitignore es erlaubt.
 
 ## Will AI Buy Our Cars? (KI und Jobverlust)
 
-- `will-ai-buy-our-cars/opener.py` – aktuelle Fassung (v2): Cold Open (00-01 bis 00-09) und Flash-Forward
+- `will-ai-buy-our-cars/prophecy.py` – aktuelle Fassung (v3): EDEN-Prophezeiung (P-01 bis P-15), drei Annahmen
+  mit GRANTED-Siegeln, Riss, Titel und Anfang von Kapitel 1 mit Genesis (G-01 bis G-06), 167 s
+  - Standbild: `python3 prophecy.py still <sekunde> <out.png>`
+  - Video: `python3 prophecy.py render <startframe> <endframe> <out.mp4>` (24 fps, 4013 Frames)
+- `will-ai-buy-our-cars/opener.py` – Fassung v2: Cold Open (00-01 bis 00-09) und Flash-Forward
   mit EDEN (F-01 bis F-11) bis zur Titelkarte, 130 s. Stil: Anthrazit, knochenweisse Figuren mit Tuschekontur,
   Rasterpunkte, Papierstruktur, Filmkorn, Gold als Bedrohungsfarbe
   - Standbild: `python3 opener.py still <sekunde> <out.png>`
