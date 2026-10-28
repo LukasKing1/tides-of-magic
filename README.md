@@ -13,6 +13,9 @@ gerenderte Videos und lizenzierte Musik nur dort, wo .gitignore es erlaubt.
 
 ## Will AI Buy Our Cars? (KI und Jobverlust)
 
+- `will-ai-buy-our-cars/start.py` – Entwurf 1 des Videoanfangs (P-01 bis P-15, 2:20) mit echter Stimme, Musik und Sounds
+  - Bild: `python3 start.py render <startframe> <endframe> <out.mp4>` (3354 Frames), Ton: `python3 start.py audio <out.wav>`
+- `will-ai-buy-our-cars/voice/`, `music/`, `sfx/` – Aufnahmen nach Zeilennummer, Musik und Sounds nach Stelle (Listen: `zuordnung.csv`, `musik.csv`, `sfx.csv`)
 - `will-ai-buy-our-cars/rich.py` – aktuelle Fassung (v4) im Niveau von Rational Animations: Prophezeiung P-01 bis P-11
   (Dach mit Silhouetten, EDEN, Vertrag, Fabrik/Kueche, Nachtbuero, goldene Stadt, Zeitungen, Menge, Autosalon,
   letzter Job, Kristallkugel mit Schlange) und Titel, 90 s
