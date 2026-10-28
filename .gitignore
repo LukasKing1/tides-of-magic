@@ -12,3 +12,5 @@ __pycache__/
 !voice/*.mp3
 !music/*.mp3
 !will-ai-buy-our-cars/voice/*.mp3
+!will-ai-buy-our-cars/music/*.mp3
+!will-ai-buy-our-cars/sfx/*.mp3
