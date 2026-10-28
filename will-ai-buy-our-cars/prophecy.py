@@ -2578,7 +2578,7 @@ class Post:
         self.noise = [rng.normal(0, 5.0, (H, W)).astype(np.int16)[:, :, None] for _ in range(6)]
 
     def apply(self, rgba, frame):
-        rgb = rgba[:, :, :3].astype(np.uint16)
+        rgb = rgba[:, :, :3].astype(np.uint32)
         rgb = (rgb * self.fac) >> 8
         out = rgb.astype(np.int16) + self.noise[frame % len(self.noise)]
         return np.clip(out, 0, 255).astype(np.uint8)
